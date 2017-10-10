@@ -32,7 +32,7 @@ const FlashInfo = FlashContainer.extend`
 const Close = styled.span`
   float: right;
   color: grey;
-  curosor: pointer;
+  cursor: pointer;
   padding-right: 50px;
 `
 
